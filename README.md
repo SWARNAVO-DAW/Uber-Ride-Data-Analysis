@@ -76,3 +76,7 @@
 - Afternoons are the busiest times for travel.
 
 - "Meeting" and "Meal/Entertainment" dominate as ride purposes.
+
+## 📊 Dashboard Preview
+
+![Uber Ride Dashboard](Dashboard.png)
